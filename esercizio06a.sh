@@ -13,6 +13,11 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ grep "ERROR" ../log/server.log
+2024-03-01 08:20:45 [ERROR] Connessione al database persa
+2024-03-01 08:20:46 [ERROR] Timeout nella riconnessione al database
+2024-03-01 09:15:03 [ERROR] File non trovato: /images/logo.png - 404
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ grep -c "WARNING" ../log/server.log
+4
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ grep -E "ERROR|WARNING" | mv ../log/server.log ../../problemi.txt
 

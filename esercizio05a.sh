@@ -13,5 +13,8 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
+giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ find ../immagini/vacanze -iname "*.jpg"
+../immagini/vacanze/foto_estate_2023.jpg
+../immagini/vacanze/foto_estate_2024.jpg
+../immagini/vacanze/foto_inverno_2023.jpg
 

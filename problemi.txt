@@ -1,0 +1,19 @@
+2024-03-01 08:00:01 [INFO] Server avviato sulla porta 8080
+2024-03-01 08:00:02 [INFO] Connessione al database stabilita
+2024-03-01 08:05:15 [INFO] Richiesta GET /index.html - 200 OK
+2024-03-01 08:07:22 [INFO] Richiesta GET /login - 200 OK
+2024-03-01 08:10:30 [WARNING] Tentativo di accesso non autorizzato da 192.168.1.100
+2024-03-01 08:10:31 [WARNING] Tentativo di accesso non autorizzato da 192.168.1.100
+2024-03-01 08:15:44 [INFO] Utente mario.rossi autenticato con successo
+2024-03-01 08:20:45 [ERROR] Connessione al database persa
+2024-03-01 08:20:46 [ERROR] Timeout nella riconnessione al database
+2024-03-01 08:21:10 [INFO] Riconnessione al database riuscita
+2024-03-01 08:30:00 [INFO] Richiesta POST /api/ordini - 201 Created
+2024-03-01 08:45:10 [WARNING] Spazio su disco inferiore al 20%
+2024-03-01 09:00:00 [INFO] Backup automatico avviato
+2024-03-01 09:15:03 [ERROR] File non trovato: /images/logo.png - 404
+2024-03-01 09:30:00 [INFO] Backup completato con successo
+2024-03-01 09:45:00 [INFO] Richiesta GET /dashboard - 200 OK
+2024-03-01 10:00:00 [WARNING] Carico CPU superiore all 80%
+2024-03-01 10:00:01 [INFO] Connessione al database chiusa
+2024-03-01 10:00:02 [INFO] Server arrestato correttamente
