@@ -13,5 +13,6 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ grep -r "*.text" ../
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ grep -rn "*database*" ../log/
 
