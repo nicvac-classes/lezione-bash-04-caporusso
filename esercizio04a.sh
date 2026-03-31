@@ -15,3 +15,4 @@
 @giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ cp ../documenti/note.txt ../archivio/note_archivio.txt
 
 
+
