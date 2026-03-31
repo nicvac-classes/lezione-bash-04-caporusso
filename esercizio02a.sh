@@ -20,5 +20,20 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
+giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso (main) $ cd ambiente/sandbox
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ mkdir -p azienda/{vendite,acquisti}/{nord,sud}
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ tree
+.
+├── azienda
+│   ├── acquisti
+│   │   ├── nord
+│   │   └── sud
+│   └── vendite
+│       ├── nord
+│       └── sud
+├── dati_privati.txt
+└── script_test.sh
+
+8 directories, 2 files
 
 
