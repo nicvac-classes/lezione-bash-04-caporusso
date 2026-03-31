@@ -13,6 +13,16 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ awk -F',' '{print $2}' ../dati/studenti.csv
+cognome
+Rossi
+Bianchi
+Verdi
+Neri
+Ferrari
+Romano
+Colombo
+Ricci
+@giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) $ awk 'NR > 1 && $5 >= 8'
 
 
