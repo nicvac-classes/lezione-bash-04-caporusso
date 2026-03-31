@@ -18,3 +18,4 @@ giuseppecap08 ➜ /workspaces/lezione-bash-04-caporusso/ambiente/sandbox (main) 
 ../immagini/vacanze/foto_estate_2024.jpg
 ../immagini/vacanze/foto_inverno_2023.jpg
 
+
